@@ -5,10 +5,10 @@ body {
     text-align: center; 
     justify-content: center;
     height: 100vh; 
-    margin: 0; 
+    margin: 280px 0; 
 }
 
 p {
-    font-size: 90px; 
+    font-size: 150px; 
     margin-top: 50px; 
 }
