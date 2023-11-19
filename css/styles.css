@@ -2,10 +2,13 @@ body {
     background-color: #0D1117;
     color: rgb(255, 255, 255);
     font-family: 'Glass Antiqua', cursive; 
-    text-align: center; /* Центрирование текста по центру */
+    text-align: center; 
+    justify-content: center;
+    height: 100vh; 
+    margin: 0; 
 }
 
 p {
-    font-size: 40px; /* Изменение размера текста */
-    margin-top: 50px; /* Добавление верхнего отступа для выравнивания по центру */
+    font-size: 90px; 
+    margin-top: 50px; 
 }
